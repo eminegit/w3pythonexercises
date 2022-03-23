@@ -4,3 +4,5 @@ num2=int(nums+nums)
 num3=int(nums+nums+nums)
 sum=num1+num2+num3
 print(sum)
+
+
